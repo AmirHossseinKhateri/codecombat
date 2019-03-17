@@ -136,22 +136,22 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    unlock: "Unlock" # For purchasing items and heroes
 #    confirm: "Confirm"
 #    owned: "Owned" # For items you own
-#    locked: "Locked"
-#    available: "Available"
+#    locked: "قفل شده"
+#    available: "در دسترس"
 #    skills_granted: "Skills Granted" # Property documentation details
 #    heroes: "Heroes" # Tooltip on hero shop button from /play
 #    achievements: "Achievements" # Tooltip on achievement list button from /play
-#    settings: "Settings" # Tooltip on settings button from /play
+#    settings: "تنظیمات" # Tooltip on settings button from /play
 #    poll: "Poll" # Tooltip on poll button from /play
-#    next: "Next" # Go from choose hero to choose inventory before playing a level
-#    change_hero: "Change Hero" # Go back from choose inventory to choose hero
-#    change_hero_or_language: "Change Hero or Language"
-#    buy_gems: "Buy Gems"
-#    subscribers_only: "Subscribers Only!"
+#    next: "بعدی" # Go from choose hero to choose inventory before playing a level
+#    change_hero: "تغییر شخصیت" # Go back from choose inventory to choose hero
+#    change_hero_or_language: "تغییر شخصیت یا زبان"
+#    buy_gems: "خرید الماس"
+#    subscribers_only: "فقط اعضا!"
 #    subscribe_unlock: "Subscribe to Unlock!"
 #    subscriber_heroes: "Subscribe today to immediately unlock Amara, Hushbaum, and Hattori!"
 #    subscriber_gems: "Subscribe today to purchase this hero with gems!"
-#    anonymous: "Anonymous Player"
+#    anonymous: "بازیکن ناشناس"
     level_difficulty: "سختی: "
 #    awaiting_levels_adventurer_prefix: "We release new levels every week."
 #    awaiting_levels_adventurer: "Sign up as an Adventurer"
@@ -255,12 +255,12 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    connected_facebook_header: "You've successfully connected with Facebook!"
 #    connected_facebook_p: "Finish signing up so you can log in with your Facebook account."
 #    hey_students: "Students, enter the class code from your teacher."
-#    birthday: "Birthday"
+#    birthday: "تولد"
 #    parent_email_blurb: "We know you can't wait to learn programming &mdash; we're excited too! Your parents will receive an email with further instructions on how to create an account for you. Email {{email_link}} if you have any questions."
 #    classroom_not_found: "No classes exist with this Class Code. Check your spelling or ask your teacher for help."
-#    checking: "Checking..."
+#    checking: "در حال بررسی..."
 #    account_exists: "This email is already in use:"
-#    sign_in: "Sign in"
+#    sign_in: "ورود"
 #    email_good: "Email looks good!"
 #    name_taken: "Username already taken! Try {{suggestedName}}?"
 #    name_available: "Username available!"
@@ -274,14 +274,14 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    student_type_1: "Learn to program while playing an engaging game!"
 #    student_type_2: "Play with your class"
 #    student_type_3: "Compete in arenas"
-#    student_type_4: "Choose your hero!"
+#    student_type_4: "انتخاب شخصیت!"
 #    student_type_5: "Have your Class Code ready!"
 #    signup_as_student: "Sign up as a Student"
 #    individuals_or_parents: "Individuals & Parents"
 #    individual_type: "For players learning to code outside of a class. Parents should sign up for an account here."
 #    signup_as_individual: "Sign up as an Individual"
 #    enter_class_code: "Enter your Class Code"
-#    enter_birthdate: "Enter your birthdate:"
+#    enter_birthdate: "تاریخ تولد خود را وارد کنید:"
 #    parent_use_birthdate: "Parents, use your own birthdate."
 #    ask_teacher_1: "Ask your teacher for your Class Code."
 #    ask_teacher_2: "Not part of a class? Create an "
@@ -295,11 +295,11 @@ module.exports = nativeDescription: "فارسی", englishDescription: "Persian",
 #    confirm_student_blurb: "Write down your information so that you don't forget it. Your teacher can also help you reset your password at any time."
 #    confirm_individual_blurb: "Write down your login information in case you need it later. Verify your email so you can recover your account if you ever forget your password - check your inbox!"
 #    write_this_down: "Write this down:"
-#    start_playing: "Start Playing!"
+#    start_playing: "شروع بازی!"
 #    sso_connected: "Successfully connected with:"
 #    select_your_starting_hero: "Select Your Starting Hero:"
 #    you_can_always_change_your_hero_later: "You can always change your hero later."
-#    finish: "Finish"
+#    finish: "تمام"
 #    teacher_ready_to_create_class: "You're ready to create your first class!"
 #    teacher_students_can_start_now: "Your students will be able to start playing the first course, Introduction to Computer Science, immediately."
 #    teacher_list_create_class: "On the next screen you will be able to create a new class."
